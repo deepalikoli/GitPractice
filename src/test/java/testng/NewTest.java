@@ -6,6 +6,6 @@ public class NewTest {
   @Test
   public void f() {
 	  
-	  System.out.println("123");
+	  System.out.println("123123");
   }
 }
